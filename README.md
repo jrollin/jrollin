@@ -18,6 +18,8 @@ Hi. I’m Julien
 I love to learn new stuff 
 
 I'm currently..
+
 :closed_book:  Improving my skills and pratice DDD and port/adapter architecture
+
 :microscope: Learning IOT with Arduino and Esp32 chips
 

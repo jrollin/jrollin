@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi. I’m Julien
+
+I'm currently :
+- :closed_book:  Improving my skills and pratice DDD and port/adapter architecture
+- :microscope: Learning IOT with Arduino and Esp32 chips
+

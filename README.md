@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 Hi. I’m Julien
 
-I'm currently :
-- :closed_book:  Improving my skills and pratice DDD and port/adapter architecture
-- :microscope: Learning IOT with Arduino and Esp32 chips
+I love to learn new stuff 
+
+I'm currently..
+:closed_book:  Improving my skills and pratice DDD and port/adapter architecture
+:microscope: Learning IOT with Arduino and Esp32 chips
 

@@ -23,3 +23,5 @@ I'm currently..
 
 :microscope: Learning IOT with Arduino and Esp32 chips
 
+- 🌱 Rust 
+

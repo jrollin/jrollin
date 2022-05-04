@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi. I’m Julien
 
 
-🦀  improving my Rust Learning
-:books: learn computer memory 
-:microscope: manage to build Iot Stuff
+- 🦀  improving my Rust Learning
+- :books: learn computer memory 
+- :microscope: manage to build Iot Stuff
 

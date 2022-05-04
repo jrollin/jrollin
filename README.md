@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 
 Hi. I’m Julien
 
-I love to learn new stuff 
 
-I'm currently..
-
-:closed_book:  Improving my skills and pratice DDD and port/adapter architecture
-
-:microscope: Learning IOT with Arduino and Esp32 chips
-
-🌱 Rust 
+🦀  improving my Rust Learning
+:books: learn computer memory 
+:microscope: manage to build Iot Stuff
 

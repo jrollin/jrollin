@@ -20,3 +20,5 @@ Hi. I’m Julien
 - :books: learn computer memory 
 - :microscope: manage to build Iot Stuff
 
+Sharing tech stuff on [my website (🇫🇷)](https://www.julienrollin.com/)
+

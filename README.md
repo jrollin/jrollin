@@ -17,6 +17,7 @@ Hi. I’m Julien
 
 
 - 🦀  improving my Rust Learning
+- 🔭  Node internal parts
 - :books: learn computer memory 
 - :microscope: manage to build Iot Stuff
 

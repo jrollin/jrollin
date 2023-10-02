@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 Hi. I’m Julien
 
 
-- 🦀  improving my Rust Learning
-- 🔭  Node internal parts
+- 🦀  improving my Rust skills
+- 🐍  diving in python to play with IA
+- 🔢  praticin data structure and algorithm
+- 🔭  understand Node internal parts 
 - :books: learn computer memory 
 - :microscope: manage to build Iot Stuff
 

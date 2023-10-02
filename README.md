@@ -18,7 +18,7 @@ Hi. I’m Julien
 
 - 🦀  improving my Rust skills
 - 🐍  diving in python to play with IA
-- 🔢  praticing data structure and algorithm
+- 🔢  practicing data structure and algorithm
 - 🔭  understand Node internal parts 
 - :books: learn computer memory 
 - :microscope: manage to build Iot Stuff
